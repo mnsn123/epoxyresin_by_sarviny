@@ -1,0 +1,18 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "epoxyresin_by_sarviny",
+  "short_name": "epoxyresin_by_sarviny",
+  "icons": [
+    {
+      "src": "https://monsoonmalabar.com/epoxyresin_by_sarviny/logo.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#33b5e5",
+  "background_color": "#fdfdfd",
+  "start_url": "https://monsoonmalabar.com/epoxyresin_by_sarviny\/",
+  "display": "standalone",
+  "orientation": "natural"
+}
